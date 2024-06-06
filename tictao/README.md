@@ -1,0 +1,1 @@
+<p>Simple and clear understanding of javascript</p>
